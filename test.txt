@@ -1,1 +1,4 @@
+
+
+make change to absorb the conflict, leave 1st line to Chen
 3:14pm Eric is making a change to test clone purpose
